@@ -1,4 +1,7 @@
 
+Sphere p;
+StraightLine sl;
+
 
 void setup()
 {
