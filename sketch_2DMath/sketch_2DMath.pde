@@ -7,6 +7,7 @@ void setup()
 {
   size(500,500);
   int a=0;
+  int b=0;
 }
 
 
