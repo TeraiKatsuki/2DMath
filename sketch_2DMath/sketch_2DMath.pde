@@ -12,5 +12,5 @@ void setup()
 
 void draw()
 {
-  
+  int test=0;
 }
